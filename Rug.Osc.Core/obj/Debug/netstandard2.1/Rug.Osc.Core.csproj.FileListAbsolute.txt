@@ -1,0 +1,11 @@
+C:\Users\mark\source\repos\Rug.Osc.Core\Rug.Osc.Core\bin\Debug\netstandard2.1\Rug.Osc.Core.deps.json
+C:\Users\mark\source\repos\Rug.Osc.Core\Rug.Osc.Core\bin\Debug\netstandard2.1\Rug.Osc.Core.dll
+C:\Users\mark\source\repos\Rug.Osc.Core\Rug.Osc.Core\bin\Debug\netstandard2.1\Rug.Osc.Core.pdb
+C:\Users\mark\source\repos\Rug.Osc.Core\Rug.Osc.Core\obj\Debug\netstandard2.1\Rug.Osc.Core.csprojAssemblyReference.cache
+C:\Users\mark\source\repos\Rug.Osc.Core\Rug.Osc.Core\obj\Debug\netstandard2.1\Rug.Osc.Core.Strings.resources
+C:\Users\mark\source\repos\Rug.Osc.Core\Rug.Osc.Core\obj\Debug\netstandard2.1\Rug.Osc.Core.csproj.GenerateResource.cache
+C:\Users\mark\source\repos\Rug.Osc.Core\Rug.Osc.Core\obj\Debug\netstandard2.1\Rug.Osc.Core.csproj.CoreCompileInputs.cache
+C:\Users\mark\source\repos\Rug.Osc.Core\Rug.Osc.Core\obj\Debug\netstandard2.1\Rug.Osc.Core.AssemblyInfoInputs.cache
+C:\Users\mark\source\repos\Rug.Osc.Core\Rug.Osc.Core\obj\Debug\netstandard2.1\Rug.Osc.Core.AssemblyInfo.cs
+C:\Users\mark\source\repos\Rug.Osc.Core\Rug.Osc.Core\obj\Debug\netstandard2.1\Rug.Osc.Core.dll
+C:\Users\mark\source\repos\Rug.Osc.Core\Rug.Osc.Core\obj\Debug\netstandard2.1\Rug.Osc.Core.pdb
